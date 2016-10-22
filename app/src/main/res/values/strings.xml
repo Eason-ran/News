@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">快讯</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">ee00ec86c718de2994b20ff4d6fb3402</string>
+</resources>
